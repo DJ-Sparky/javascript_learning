@@ -17,15 +17,3 @@ if (randomPosition == '0') {
 } else {
   console.log('Better luck next time.');
 }
-
-// (congratsMessage) => {
-//   let congrats;
-//   if ((racePosition = 'first')) {
-//     congrats = 'Well Done';
-//     console.log(congrats);
-//   } else {
-//     congrats = 'Better luck next time.';
-//     console.log(congrats);
-//   }
-//   return congrats;
-// };
